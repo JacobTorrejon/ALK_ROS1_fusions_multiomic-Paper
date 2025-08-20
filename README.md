@@ -10,7 +10,7 @@ _BioRxiv_ 2025; doi: https://doi.org/10.1101/2025.05.27.656302
 - The **source_codes** folder contains the R scripts used for the analysis and to make the figures
   - [RNAseq Analysis]
   - [Proteome Analysis]
-  - [Proteome Analysis]
+  - [Phospho Analysis]
   - [Integrative multiomic Analysis]
 - The **source_data** folder contains the normalized and fileterd RNAseq, proteome and phospho matrices used for the analysis and to make the figures
   
